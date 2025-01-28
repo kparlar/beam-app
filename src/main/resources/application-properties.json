@@ -1,0 +1,13 @@
+[
+  {
+    "PropertyGroupId": "BeamApplicationProperties",
+    "PropertyMap": {
+      "InputProject": "FileProcessor",
+      "QueueCsv":"dev-queue-csv",
+      "AwsRegion": "us-east-1",
+      "DbUrl": "jdbc:postgresql://localhost:5432/postgres",
+      "DbUser": "postgres",
+      "DbPassword": "changeme"
+    }
+  }
+]
